@@ -1,0 +1,11 @@
+.root {
+    padding: 20px;
+    border: 3px solid #ccc;
+    font-size:20px;
+}
+.bg{
+    background: url('./asset/image/bg.jpg') no-repeat;
+    background-size:100% 100%;
+    width: 300px;
+    height: 300px;
+}
